@@ -133,3 +133,4 @@ export function unregister() {
     });
   }
 }
+export default registerValidSW;
